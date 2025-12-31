@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\isometricCamera",
+    "\\isometricCamera\\Source",
+    "\\isometricCamera\\Source\\isometricCamera",
+    "\\isometricCamera\\Source\\isometricCamera\\Private",
+    "\\isometricCamera\\Source\\isometricCamera\\Public"
+  ],
+  "SelectedNode": "\\isometricCamera\\Source\\isometricCamera\\Private\\IsoCameraPawn.cpp",
+  "PreviewInSolutionExplorer": false
+}
